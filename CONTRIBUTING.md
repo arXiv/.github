@@ -3,6 +3,29 @@
 Thanks for your interest in contributing to arXiv software development! Here
 is a quick run-through of things you should know before diving in.
 
+## How to help
+
+We have a list of projects at https://github.com/orgs/arXiv/projects. We try to
+put things here that are relatively self-contained (i.e. don't require a ton of
+coordination with other projects). If you see a project that looks interesting
+to you, take a look at the associated issues as well as the README of the
+associated repository.
+
+### Recommendations for making contributions:
+
+- **Make sure that you are working from a ticket.** If you see something that
+  needs doing, and there isn't a ticket,  please make one. This helps us to
+  keep tabs on what we're doing.
+- **Keep contributions bite-sized.** We try to split up work into small,
+  manageable pieces. This makes it easier for multiple people to work together,
+  and especially facilitates code review. If you find yourself adding more than
+  a few dozen lines of code, the task might be too big. Consider splitting the
+  work into multiple tickets that you can deliver separately.
+- **Don't hesitate to ask questions.** With a project this size, it is
+  impossible to anticipate everything that contributors will need to know.
+  Please ask lots of questions (just comment on the open issues, or create a
+  new issue), and we'll do our best to answer them.
+
 ## Reading
 
 For a high-level overview of the arXiv-NG project, see the [arXiv
